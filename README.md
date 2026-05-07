@@ -1,4 +1,6 @@
-# HR-Analytics
+# HR-Analytics-Excel
+
+**Tools:** Excel & Power Query
 
 **About Project:**
 This HR Analytics project analyzes employee data to identify trends in salary, hiring, resignations, departments, and workforce distribution. The goal is to help HR teams make better decisions related to employee retention, recruitment, and compensation.
