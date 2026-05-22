@@ -3,9 +3,9 @@
 An end-to-end analysis of 2,800 subscription customers — identifying why customers leave and what drives retention across Basic, Standard, and Premium plans.
 
 **Total Customer**: 2800  
-**Time Period**: 2023-2024  
-**Data Source**: Kaggle 
-**Tools Used**: Excel-Power Query
+**Time Period**:2023-2024  
+**Data Source**:Kaggle 
+**Tools Used**:Excel-Power Query
 
 **Project Overview**
 
